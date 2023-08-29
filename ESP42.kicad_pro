@@ -421,7 +421,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ESP42_PSA_ANT.kicad_pro",
+    "filename": "ESP42.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -457,7 +457,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "ESP42_PSA_ANT.step",
+      "step": "ESP42.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
